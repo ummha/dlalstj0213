@@ -1,4 +1,5 @@
-### Hi there 👋
+## 자바 개발자 이민서 입니다. 👋
+[나의 이력서 보기( Notion )](https://www.notion.so/Rhie-Minseo-bc361777b55d4c71ae201b0428b9587a)
 
 <!--
 **dlalstj0213/dlalstj0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
