@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 ( *로고 삽입 작업중...* ) <br>
 JAVA / Spring MVC / Servlet JSP / HTML5 / CSS3 / JS / Oracle / JQuery / Ajax / Websquare5
-
+<br>
+<!--
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
@@ -28,7 +29,8 @@ JAVA / Spring MVC / Servlet JSP / HTML5 / CSS3 / JS / Oracle / JQuery / Ajax / W
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/oracle.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jquery.svg" />
 <img height="32" width="32" style="" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" />
-<br>
+-->
+
 <!--
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
@@ -41,7 +43,7 @@ JAVA / Spring MVC / Servlet JSP / HTML5 / CSS3 / JS / Oracle / JQuery / Ajax / W
 <div markdown="1">
 작성일: 2020-12-20
 
-이제 곧 다가올 크리스마스를 보내고 나면 2020년도 올 한해가 마무리 된다. 벌써 2020년이 끝나다니... 이제부터 한해 마지막 쯤에 그 해 동안 나의 모습을 돌아보면서 부족했던 점을 찾아보고 뜻깊었던 일을 되새겨보면서 내년의 목표를 세워보는 시간을 가져보려 한다. :simple_smile:
+이제 곧 다가올 크리스마스를 보내고 나면 2020년도 올 한해가 마무리 된다. 벌써 2020년이 끝나다니... 이제부터 한해 마지막 쯤에 그 해 동안 나의 모습을 돌아보면서 부족했던 점을 찾아보고 뜻깊었던 일을 되새겨보면서 내년의 목표를 세워보는 시간을 가져보려 한다.
 
 2020년, 최악이다. 코로나 때문에 나 뿐만이 아니라 전세계 사람들이 모두 힘들었던 한해였던것 같다.:mask: 제발 내년에는 훌륭한 사람들의 백신과 치료제를 통해 더 안전한 해를 보냈으면 하는 바램이다.:cry: 이렇게 우울했던 한해였기도 했지만 그래도 나에게 있어서 인생에 '새로운 출발'이라는 의미로 중요하고 의미있었던 한해였다.
 
