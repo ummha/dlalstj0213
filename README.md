@@ -72,12 +72,12 @@ JAVA / Spring MVC / Servlet JSP / HTML5 / CSS3 / JS / Oracle / JQuery / Ajax / W
 </details>
 
 ## :memo: 2021년도 목표
-- :pushpin: 알고리즘 마스터
-- :pushpin: SQLD 자격증 취득
-- :pushpin: 정보처리 산업기사 자격증 취득
-- :pushpin: JAVA 고급기술 마스터(함수형프로그래밍, Enum, Generic, ...)
-- :pushpin: Spring 마스터(Boot, Webflux, Cloud, ...)
-- :pushpin: React.js 개인 미니 프로젝트
+- :pushpin: SQLD 자격증 공부/취득
+- :pushpin: 정보처리 산업기사 자격증 공부(11월말 응시 자격요건 달성)
+- :pushpin: 프로그래밍 내공 쌓기 : JAVA(OOP, 함수형프로그래밍, Enum, Generic, RxJava) + 알고리즘/자료구조 + 디자인패턴(옵저버 패턴, 싱글톤, 팩토리 등)
+- :pushpin: 기본적인 분산 아키텍처 공부 : Publisher(Producer)-Subscriber(Consumer) + HOW TO 다중서버 일치성(합의 알고리즘, Transparancy, Kafka) + HOW TO 트래픽 분산(Non-Blocking, 비동기 프로그래밍)
+- :pushpin: Spring 마스터 : core + webMVC + boot + security + kafka + webflux + cloud ...
+- :pushpin: React 마스터 : React.js + React Hook + React native + 미들웨어(Redux 등) + 개인 미니 프로젝트
 
 <!-- START GITHUB STATS -->
 ---
